@@ -1,5 +1,9 @@
 <h2>1. Business Problem</h2>
+Super Brtinquedos is a fictional toy store, and as Children's Day is approaching, the Commercial Manager wants to take advantage of this period to boost sales..
 The Commercial Manager requested the creation of a dashboard to understand the store's performance to date and, based on historical data, define the sales strategy.
+
+<h2>2. Business Assumptions</h2>
+The data for the month of August is incomplete. However, after analyzing the current data, it is possible to observe small or irrelevant variances in the number of sales compared to other months, both in terms of volume and margin percentage. Due to this fact, the decision was made to include the data for August.
 
 <h2>2. Solution Strategy</h2>
 <h4>2.1 Load data from CSV</h4>
@@ -34,7 +38,6 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | 3337   | -11.16%  	|
 | ago   | 1910   | -42.76%  	|
 
-
 3.3.2 Sales     
 | Month | Sales Value      | Sales Value % ▲ |
 | ----- | ---------------- | ----------------|
@@ -46,7 +49,6 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jun   | R$ 104086.94     | -2.61%       	  |
 | jul   | R$ 92356.92      | -11.27%      	  |
 | ago   | R$ 52776.27      | -42.86%      	  |
-
 
 3.3.3 Margin %     
 | Month | Profit Margin    | Profit Margin % ▲ |
@@ -60,11 +62,13 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | R$ 46155.13      | -11.48%           |
 | ago   | R$ 26496.75      | -42.59%           |
 
-
 <h4>3.6 What is the best product mix that offers the highest Sales Value and Margin %?</h4>
 The category of products that offers the highest sales value is the "Pelúcia" category, which has a margin of 49.98%. Even though it has the lowest profit margin compared to other categories, it still demonstrates the best performance in the combined aspects of sales value and margin percentage. The total sales value for this category is R$211.174,23, corresponding for approximately 27% of the total sales value.
 
 <h2>3.7 What is the percentage growth of sales month over month and year to date?</h2>
+
+Month	Sales %	Year-to-Date Sales %
+
  | Month | Sales %  | Year-to-Date Sales % |
  | ----- | -------- | -------------------- |
  | jan   | 13.83%   | 13.83%               |
@@ -83,7 +87,7 @@ This observation suggests that sales volume loses some of its relevance as an in
 <h4>4.2 Sales distribution is uniform across various perspectives, indicating temporal stability and diversity in products and sellers.</h4>
 In this case, it is challenging to identify a specific sales driver, and Pareto assumptions may not be applicable.
 <h4>4.3 There is a risk of profit loss; a small variation in margins can make the company more vulnerable to cost-related factors.</h4>
-Given the low variation in margin %, it is advisable to expand marketing or product sales strategies, such as seasonal promotions, bundles and packages, and upselling or cross-selling strategies.
+Given the low variation in margin %, it is advisable to expand marketing or product sales strategies, such as seasonal promotions, bundles and packages, and upselling or cross-selling strategies. The Children's Day promotion may be an interesting point of start, however, it would be interesting to develop other strategies to boost sales at specific points throughout the year.
 
 <h2>Conclusion</h2>
 The analysis provides valuable insights into product performance, pricing dynamics, and sales evolution. Recommendations include a focus on profit margins, exploration of pricing optimization and marketing strategies, and consideration of potential risks to profitability. The creation of a visual dashboard facilitates ongoing monitoring and informed decision-making
