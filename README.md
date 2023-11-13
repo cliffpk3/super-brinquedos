@@ -26,7 +26,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 
 <h4>3.3 What is the evolution of sales in terms of Volume, Sales Value, and Margin?</h4>
 
-3.3.1 Volume
+<h5>3.3.1 Volume</h5>
 | Month | Volume | Volume % ▲   |
 | ----- | ------ | ------------ |
 | jan   | 3879   |              |
@@ -38,7 +38,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | 3337   | -11.16%  	|
 | ago   | 1910   | -42.76%  	|
 
-3.3.2 Sales     
+<h5>3.3.2 Sales</h5>     
 | Month | Sales Value      | Sales Value % ▲ |
 | ----- | ---------------- | ----------------|
 | jan   | R$ 106520.36     |                 |
@@ -50,7 +50,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | R$ 92356.92      | -11.27%      	  |
 | ago   | R$ 52776.27      | -42.86%      	  |
 
-3.3.3 Margin %     
+<h5>3.3.3 Margin %</h5>
 | Month | Profit Margin    | Profit Margin % ▲ |
 | ----- | ---------------- | ----------------- |
 | jan   | R$ 53431.51      |                   |
