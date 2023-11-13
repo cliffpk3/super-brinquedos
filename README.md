@@ -92,4 +92,5 @@ In this case, it is challenging to identify a specific sales driver, and Pareto 
 Given the low variation in margin %, it is advisable to expand marketing or product sales strategies, such as seasonal promotions, bundles and packages, and upselling or cross-selling strategies. The Children's Day promotion may be an interesting point of start, however, it would be interesting to develop other strategies to boost sales at specific points throughout the year.
 
 <h2>6. Conclusion</h2>
-The analysis provides valuable insights into product performance, pricing dynamics, and sales evolution. Recommendations include a focus on profit margins, exploration of pricing optimization and marketing strategies, and consideration of potential risks to profitability. The creation of a visual dashboard facilitates ongoing monitoring and informed decision-making to Super Brinquedos company
+The dashboards provides the possibility to analysis and get valuable insights into product performance, pricing dynamics, and sales evolution. 
+Recommendations include a focus on profit margins, exploration of pricing optimization and marketing strategies, and consideration of potential risks to profitability. The creation of a visual dashboard facilitates ongoing monitoring and informed decision-making to Super Brinquedos company
