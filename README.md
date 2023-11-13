@@ -34,6 +34,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | 3337   | -11.16%  	|
 | ago   | 1910   | -42.76%  	|
 
+
 3.3.2 Sales     
 | Month | Sales Value      | Sales Value % ▲ |
 | ----- | ---------------- | ----------------|
@@ -46,6 +47,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jul   | R$ 92356.92      | -11.27%      	  |
 | ago   | R$ 52776.27      | -42.86%      	  |
 
+
 3.3.3 Margin %     
 | Month | Profit Margin    | Profit Margin % ▲ |
 | ----- | ---------------- | ----------------- |
@@ -57,6 +59,7 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 | jun   | R$ 52142.03      | -3.34%            |
 | jul   | R$ 46155.13      | -11.48%           |
 | ago   | R$ 26496.75      | -42.59%           |
+
 
 <h4>3.6 What is the best product mix that offers the highest Sales Value and Margin %?</h4>
 The category of products that offers the highest sales value is the "Pelúcia" category, which has a margin of 49.98%. Even though it has the lowest profit margin compared to other categories, it still demonstrates the best performance in the combined aspects of sales value and margin percentage. The total sales value for this category is R$211.174,23, corresponding for approximately 27% of the total sales value.
