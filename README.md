@@ -62,9 +62,6 @@ Product	with Lowest Profit Margin Percentage are Product 87, 25, 56, 54, 37.
 The category of products that offers the highest sales value is the "Pelúcia" category, which has a margin of 49.98%. Even though it has the lowest profit margin compared to other categories, it still demonstrates the best performance in the combined aspects of sales value and margin percentage. The total sales value for this category is R$211.174,23, corresponding for approximately 27% of the total sales value.
 
 <h2>3.7 What is the percentage growth of sales month over month and year to date?</h2>
-
-Month	Sales %	Year-to-Date Sales %
-
  | Month | Sales %  | Year-to-Date Sales % |
  | ----- | -------- | -------------------- |
  | jan   | 13.83%   | 13.83%               |
