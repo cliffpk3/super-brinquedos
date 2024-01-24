@@ -1,3 +1,4 @@
+<img align="center" alt="4_1" src="https://github.com/cliffpk3/super-brinquedos/blob/main/files/sb_01.png" /><img>
 <h2>1. Business Problem</h2>
 Super Brinquedos is a fictional toy store, and as Children's Day is approaching, the Commercial Manager wants to take advantage of this period to boost sales..
 The Commercial Manager requested the creation of a dashboard to understand the store's performance to date and, based on historical data, define the sales strategy.
