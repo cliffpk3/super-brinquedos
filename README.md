@@ -1,5 +1,5 @@
 <h2>1. Business Problem</h2>
-Super Brtinquedos is a fictional toy store, and as Children's Day is approaching, the Commercial Manager wants to take advantage of this period to boost sales..
+Super Brinquedos is a fictional toy store, and as Children's Day is approaching, the Commercial Manager wants to take advantage of this period to boost sales..
 The Commercial Manager requested the creation of a dashboard to understand the store's performance to date and, based on historical data, define the sales strategy.
 
 <h2>2. Business Assumptions</h2>
